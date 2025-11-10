@@ -82,7 +82,7 @@ section{
     font-weight: 500;
 }
 .main-text h1{
-    color: #2c2c2c;
+    color: #fff;
     font-size: 65px;
     text-transform: capitalize;
     line-height: 1.1;
@@ -90,7 +90,7 @@ section{
     margin: 6px 0px 10px;
 }
 .main-text p{
-    color: #2c2c2c;
+    color: #fff;
     font-size: 20px;
     font-style: italic;
     margin-bottom: 20px;
@@ -383,4 +383,5 @@ header.sticky{
     .navmenu.open{
         right: 0;
     }
+
 }
